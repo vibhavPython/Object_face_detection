@@ -1,0 +1,26 @@
+<annotation>
+	<folder>badal</folder>
+	<filename>20190704_114340_011.jpg</filename>
+	<path>/home/rajeshwari/Desktop/proj/badal/20190704_114340_011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>badal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>7</ymin>
+			<xmax>528</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
