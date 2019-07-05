@@ -1,0 +1,26 @@
+<annotation>
+	<folder>subrat</folder>
+	<filename>20190704_114406_028.jpg</filename>
+	<path>/home/pushpendu/Documents/ImgProc/subrat/20190704_114406_028.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Subrat_Sahoo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>10</ymin>
+			<xmax>444</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>
